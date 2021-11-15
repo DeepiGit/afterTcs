@@ -2,3 +2,6 @@ Hi Everyone!!!!!
 
 I am working in TCS for past 5 months till now
 Actually now I am learning git and github and for learning purpose I have created this file
+
+In my project my trainer has issist me to learn about the Git and Github
+So for practising git I want a topic r8, to check how git works?, what we can do in git? I have created this file 
