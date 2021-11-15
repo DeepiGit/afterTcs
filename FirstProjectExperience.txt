@@ -9,4 +9,6 @@ So for practising git I want a topic r8, to check how git works?, what we can do
 
 So funny r8, nothing here no important topic here hahahaha
 
+now i am adding something to check for merging 2 branch as i will add this as new branch
+
 thanks for studying
